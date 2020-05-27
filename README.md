@@ -1,6 +1,8 @@
 # Planilha_Orcamento_e_estoque_VBA
 ## Planilha de Orcamento e estoque desenvolvida com macro e VBA
 **Lembrar de habilitar o uso de macros antes de abrir**
+
+
 **arquivo >> opções >> central de confiabilidade >> configurações da central de confiabilidade >> habilitar todas as macros**
 
 Esta planilha foi desenvolvida para pequenas e médias empresas que necessitem de um controle de seus produtos em estoque, assim como seus clientes e fornecedores.
