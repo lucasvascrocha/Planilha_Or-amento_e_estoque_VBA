@@ -1,4 +1,4 @@
-# Planilha_Or-amento_e_estoque_VBA
+# Planilha_Orcamento_e_estoque_VBA
 ## Planilha de Orcamento e estoque desenvolvida com macro e VBA
 **Lembrar de habilitar o uso de macros antes de abrir**
 
@@ -20,8 +20,11 @@ A funcionalidade cadastro de produto possui capacidade de armazenar dados como d
 
 O orçamento que é preenchido automaticamente cadastra um produto por vez, podendo alterar a quanitdade, é mostrado uma prévia do valor total do produto escolhido, quanitdade de produtos escolhidos, e valor total do orçamento até então. O usuário cadastra um produto e aperta em gravar para adicionar mais produtos ao orçamento. Para finalizar aperte em finalizar orçamento que será perguntado a qual cliente deseja nomear o orçamento. Automaticamente os dados do cliente são passados ao orçamento que já pode ser impresso. Ao reiniciar o cadastro de um novo orçamento lembre-se de apertar o botão limpar orçamento para apagar o cadastro de produtos do último orçamento.
 
-![Clientes](https://github.com/lucasvascrocha/Planilha_Orcamento_e_estoque_VBA/blob/master/imagens%20planilha/orcamento.png)>
+![Clientes](https://github.com/lucasvascrocha/Planilha_Orcamento_e_estoque_VBA/blob/master/imagens%20planilha/orcamento.png)
 
+Por fim a geração automatica de um orçamento para impressão com os dados do cliente e seus produtos, que pode ser adaptado com os dados da empresa e logotipo no cabeçalho, assim como a data de validade da proposta
+
+![Clientes](https://github.com/lucasvascrocha/Planilha_Orcamento_e_estoque_VBA/blob/master/imagens%20planilha/orcamento%20imprimir.png)
 
 
 
