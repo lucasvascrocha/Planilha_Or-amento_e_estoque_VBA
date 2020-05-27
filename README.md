@@ -17,7 +17,7 @@ Há também a parte de cadastro de fornecedores e suas características, que pod
 
 ![Clientes](https://github.com/lucasvascrocha/Planilha_Orcamento_e_estoque_VBA/blob/master/imagens%20planilha/fornecedor.png)
 
-A funcionalidade cadastro de produto possui capacidade de armazenar dados como descrição, unidade de venda pré estabelecida, marca e valor unitário, não é possível cadastrar um produto repetido, apenas ítens únicos
+A funcionalidade cadastro de produto possui capacidade de armazenar dados como descrição, unidade de venda pré estabelecida, marca e valor unitário, não é possível cadastrar um produto repetido, apenas ítens únicos, cada produto recebe um código único crescente ao ser cadastrado
 
 ![Clientes](https://github.com/lucasvascrocha/Planilha_Orcamento_e_estoque_VBA/blob/master/imagens%20planilha/produto.png)
 
